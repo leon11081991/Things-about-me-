@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @leon11081991. I'm a freshman on Github.
 - 👀 I’m interested in Web develop & Database and anything about computer science.
-- 🌱 I’m currently learning SQL & C ...etc
 - 📫 iamyiii0328@gmail.com
 
 <!---
